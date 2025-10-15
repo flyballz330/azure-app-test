@@ -14,6 +14,7 @@ namespace azure_app_test.Pages
 
         public void OnGet()
         {
+            
         }
     }
 
